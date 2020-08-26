@@ -1,0 +1,14 @@
+{
+  "name": "com.lexscite.world-space-input",
+  "displayName": "WorldSpaceInput",
+  "version": "1.0.0",
+  "unity": "2019.3",
+  "description": "World space touch-based input controller",
+  "keywords": [ "input", "editor" ],
+  "category": "input",
+  "dependencies": {},
+  "author": {
+    "name": "Lexscite",
+    "email": "lexscite@gmail.com"
+  }
+}
